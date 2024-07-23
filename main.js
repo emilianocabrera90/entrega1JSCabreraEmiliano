@@ -2,7 +2,7 @@
 function obtenerEdad() {
     let edad;
     do {
-        let input = prompt("¿Cuántos años tenes?");
+        let input = prompt("¿Cuántos años tienes?");
         if (input === null) {
             alert("Gracias por visitarnos, vuelva pronto!")
             return null; 
